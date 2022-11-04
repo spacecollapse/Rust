@@ -9,24 +9,7 @@
 
 # 1 часть - Пиратка V2360
 
-
-Skidware
-
-![image](https://user-images.githubusercontent.com/53594431/198866355-d8dc9ec5-93f2-4e47-b214-e755dc463c23.png)
-
-
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/skidwareCC.dll
-
-
-ger.sol
-
-![image](https://user-images.githubusercontent.com/53594431/198866386-e5c8de00-a122-4348-be97-ade76b0eb77d.png)
-
-
-
-
-
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/ger.sol.dll
+раст обновился, ждите нвоые читы
 
 
 # 2 Часть - Макросы
