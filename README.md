@@ -7,9 +7,16 @@
 
 
 
-# 1 часть - Пиратка V2360
+# 1 часть - Пиратка V2362
 
-раст обновился, ждите нвоые читы
+
+![image](https://user-images.githubusercontent.com/53594431/199932624-38311d53-372f-4f3f-95d3-adae462b75b5.png)
+
+
+
+
+
+Скачать - https://github.com/defoxxx/Rust/releases/download/rust/negry_gandony_2.1111.dll
 
 
 # 2 Часть - Макросы
