@@ -18,6 +18,12 @@
 
 Скачать - https://github.com/defoxxx/Rust/releases/download/rust/negry_gandony_2.1111.dll
 
+ещё 2 чита мне лень выкладывать меню
+
+https://github.com/defoxxx/Rust/releases/download/rust/superiority_RUST.dll
+
+https://github.com/defoxxx/Rust/releases/download/rust/skidwareCC.dll
+
 
 # 2 Часть - Макросы
 
