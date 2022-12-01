@@ -9,21 +9,7 @@
 
 # 1 часть - Пиратка V2362
 
-
-![image](https://user-images.githubusercontent.com/53594431/199932624-38311d53-372f-4f3f-95d3-adae462b75b5.png)
-
-
-
-
-
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/negry_gandony_2.1111.dll
-
-ещё 2 чита мне лень выкладывать меню
-
-https://github.com/defoxxx/Rust/releases/download/rust/superiority_RUST.dll
-
-https://github.com/defoxxx/Rust/releases/download/rust/skidwareCC.dll
-
+- временно отсутствуют по причине обновления
 
 # 2 Часть - Макросы
 
