@@ -9,7 +9,10 @@
 
 # 1 часть - Пиратка V2365
 
-- временно отсутствуют по причине обновления
+https://github.com/defoxxx/Rust/releases/download/rust/skidwareCC.dll
+первый
+второй
+https://github.com/defoxxx/Rust/releases/download/rust/superiority_RUST.dll
 
 # 2 Часть - Макросы
 
