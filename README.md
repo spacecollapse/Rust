@@ -9,17 +9,15 @@
 
 # 1 часть - Пиратка V2365
 
-https://github.com/defoxxx/Rust/releases/download/rust/skidwareCC.dll
+https://github.com/defoxxx/Rust/releases/download/rust/1.dll
 
-первый
+первый (супериор)
 
-второй
 
-https://github.com/defoxxx/Rust/releases/download/rust/superiority_RUST.dll
+второй(скидвар)
 
-Еще софт 
+https://github.com/defoxxx/Rust/releases/download/rust/2.dll
 
-![image](https://user-images.githubusercontent.com/53594431/206904533-c95999de-ff34-4d48-b7af-dc26201ea303.png)
 
 
 Скачать - https://github.com/defoxxx/Rust/releases/download/rust/s.dll
