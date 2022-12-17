@@ -9,9 +9,11 @@
 
 # 1 часть - Пиратка V2365
 
+первый (супериор) 
+
 https://github.com/defoxxx/Rust/releases/download/rust/1.dll
 
-первый (супериор)
+
 
 
 второй(скидвар)
@@ -20,7 +22,6 @@ https://github.com/defoxxx/Rust/releases/download/rust/2.dll
 
 
 
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/s.dll
 
 # 2 Часть - Макросы
 
