@@ -13,6 +13,7 @@
 
 https://github.com/defoxxx/Rust/releases/download/rust/1.dll
 
+(кфг можно скачать в дс в канале rust-пиратка
 
 
 
