@@ -9,19 +9,11 @@
 
 # 1 часть - Пиратка V2366
 
-первый (супериор) 
+супериор
 
-https://github.com/defoxxx/Rust/releases/download/rust/1.dll
+https://github.com/defoxxx/Rust/releases/download/rust/superiority_RUST.dll
 
 (кфг можно скачать в дс в канале rust-пиратка
-
-
-
-второй(скидвар)
-
-https://github.com/defoxxx/Rust/releases/download/rust/2.dll
-
-
 
 
 # 2 Часть - Макросы
