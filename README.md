@@ -18,6 +18,8 @@ https://github.com/defoxxx/Rust/releases/download/rust/superiority_RUST.dll
 
 simplicity
 
+https://github.com/defoxxx/Rust/releases/download/rust/build.dll
+
 
 
 
