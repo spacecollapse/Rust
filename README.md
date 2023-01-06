@@ -11,16 +11,36 @@
 
 супериор
 
-https://github.com/defoxxx/Rust/releases/download/rust/superiority_RUST.dll
+![image](https://user-images.githubusercontent.com/53594431/211075018-187028c0-48fa-4b05-a4e1-99a0d556daca.png)
+
+
+Скачать - https://github.com/defoxxx/Rust/releases/download/rust/superiority_RUST.dll
 
 (кфг можно скачать в дс в канале rust-пиратка)
 
 
 simplicity
 
-https://github.com/defoxxx/Rust/releases/download/rust/build.dll
+![image](https://user-images.githubusercontent.com/53594431/211075434-9a20dba4-4c7c-43bf-b95b-206193858fd8.png)
 
 
+Скачать - https://github.com/defoxxx/Rust/releases/download/rust/build.dll
+
+
+
+yzbek cc 
+
+![image](https://user-images.githubusercontent.com/53594431/211075354-c55239dd-b434-4234-9b14-a814ffcfc1e9.png)
+
+
+Скачать - https://github.com/defoxxx/Rust/releases/download/rust/Yzbek.CC.dll
+
+Yzbec cc 2
+
+![image](https://user-images.githubusercontent.com/53594431/211075620-f575b706-707e-405a-96e3-3c3111887bfb.png)
+
+
+Скачать - https://github.com/defoxxx/Rust/releases/download/rust/Yzbek.cc_2.dll
 
 
 INFINITY ВРЕМЕННО НЕТ, СЕГОДНЯ ЛИБО ЗАВТРА БУДЕТ 
