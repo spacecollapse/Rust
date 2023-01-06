@@ -13,7 +13,9 @@
 
 https://github.com/defoxxx/Rust/releases/download/rust/superiority_RUST.dll
 
-(кфг можно скачать в дс в канале rust-пиратка
+(кфг можно скачать в дс в канале rust-пиратка)
+
+INFINITY ВРЕМЕННО НЕТ, СЕГОДНЯ ЛИБО ЗАВТРА БУДЕТ 
 
 
 # 2 Часть - Макросы
