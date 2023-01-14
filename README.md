@@ -27,25 +27,6 @@ simplicity
 Скачать - https://github.com/defoxxx/Rust/releases/download/rust/build.dll
 
 
-
-yzbek cc 
-
-![image](https://user-images.githubusercontent.com/53594431/211075354-c55239dd-b434-4234-9b14-a814ffcfc1e9.png)
-
-
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/Yzbek.CC.dll
-
-Yzbec cc 2
-
-![image](https://user-images.githubusercontent.com/53594431/211075620-f575b706-707e-405a-96e3-3c3111887bfb.png)
-
-
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/Yzbek.cc_2.dll
-
-
-INFINITY ВРЕМЕННО НЕТ, СЕГОДНЯ ЛИБО ЗАВТРА БУДЕТ 
-
-
 # 2 Часть - Макросы
 
 lolz macros
