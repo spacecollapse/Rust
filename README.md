@@ -51,14 +51,3 @@ lolz macros
 
 Скачать - https://github.com/defoxxx/Rust/releases/download/rust/Rust.133dev.zip
 
-- 248 ДЕВБЛОГ
-
-
-Hydrogenesis
-
-![image](https://user-images.githubusercontent.com/53594431/212552353-6abc2507-a340-4f7a-9887-56f82adb1dc9.png)
-
-
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/Hydrogenesis.dll
-
-
