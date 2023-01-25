@@ -45,7 +45,7 @@ lolz macros
 
 # 3 часть - DevBlog
 
--  133 девблог
+# 133 девблог
 
 4софта
 
@@ -53,6 +53,18 @@ lolz macros
 
 ![image](https://user-images.githubusercontent.com/53594431/198866468-f9fea422-5284-4198-9be1-39be3e7cd507.png)
 
-
 Скачать - https://github.com/defoxxx/Rust/releases/download/rust/Rust.133dev.zip
+
+# 247 devblog
+
+Hydrogenesis
+
+![image](https://user-images.githubusercontent.com/53594431/214524142-11c0e58a-7f80-414d-9503-40e3e6d4380d.png)
+
+
+
+Скачать - https://github.com/defoxxx/Rust/releases/download/rust/Hydrogenesis.dll
+
+
+
 
