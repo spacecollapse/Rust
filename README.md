@@ -37,6 +37,11 @@ lolz macros
 
 Скачать - https://github.com/defoxxx/Rust/releases/download/rust/FreeScript.1.exe
 
+# devBlog
+
+Продаю софт на разные девблоги цена ~140рублей
+
+за наличием пишите в дискорде в личку
 
 # 3 часть - DevBlog
 
