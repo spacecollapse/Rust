@@ -7,25 +7,16 @@
 
 
 
-# 1 часть - Пиратка V2367
+# 1 часть - Пиратка V2370
 
 супериор
 
 ![image](https://user-images.githubusercontent.com/53594431/211075018-187028c0-48fa-4b05-a4e1-99a0d556daca.png)
 
 
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/superiority_RUST.dll
+Скачать - временно на обновлении
 
 (кфг можно скачать в дс в канале rust-пиратка)
-
-
-simplicity
-
-![image](https://user-images.githubusercontent.com/53594431/211075434-9a20dba4-4c7c-43bf-b95b-206193858fd8.png)
-
-
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/build.dll
-
 
 # 2 Часть - Макросы
 
