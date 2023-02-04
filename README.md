@@ -9,10 +9,7 @@
 
 # 1 часть - Пиратка V2370
 
-супериор
-
-
-https://github.com/defoxxx/Rust/releases/download/rust/superiority.win.dll
+временно нету
 
 # 2 Часть - Макросы
 
