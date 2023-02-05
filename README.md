@@ -18,10 +18,10 @@
 
 • 2 чит кряк Mr.gopota
 
+![image](https://media.discordapp.net/attachments/986681173554106388/1071853016271028304/image-2.png) 
 
 Скачать - https://github.com/defoxxx/Rust/releases/download/rust/UnityCrashHandler64.1.exe
 
-![image](https://media.discordapp.net/attachments/986681173554106388/1071853016271028304/image-2.png) 
 
 Инструкция: 
 
