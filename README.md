@@ -16,6 +16,17 @@
 Скачать чит - https://github.com/defoxxx/Rust/releases/download/rust/CatChair_Free.dll
 
 
+• 2 чит кряк Mr.gopota
+
+
+Скачать - https://github.com/defoxxx/Rust/releases/download/rust/UnityCrashHandler64.1.exe
+
+![image](https://media.discordapp.net/attachments/986681173554106388/1071853016271028304/image-2.png) 
+
+Инструкция: 
+
+в расте открываете файл (у вас появляется белое окно), заходите  в раст и нажимаете F2 
+
 
 # 2 Часть - Макросы
 
