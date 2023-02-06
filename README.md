@@ -9,6 +9,14 @@
 
 # 1 часть - Пиратка V2370
 
+- 2 чит NovazBestening
+
+![image]( https://media.discordapp.net/attachments/1069673427205628075/1072158169528270878/RustClient_l98yXnjVMO.png) 
+
+Скачать - https://github.com/defoxxx/Rust/releases/download/rust/Novazbesting.dll
+
+-2 чит NovazBestening
+
 ![image](https://user-images.githubusercontent.com/53594431/216804525-0c24db1d-89bd-4793-8d4f-30e52c12983f.png)
 
 
@@ -16,9 +24,11 @@
 Скачать чит - https://github.com/defoxxx/Rust/releases/download/rust/CatChair_Free.dll
 
 
-• 2 чит кряк Mr.gopota
+• 3 чит кряк Mr.gopota
 
 ![image](https://media.discordapp.net/attachments/986681173554106388/1071853016271028304/image-2.png) 
+
+Можете не использовать если боитесь запускать ехе файлы
 
 Скачать - https://github.com/defoxxx/Rust/releases/download/rust/UnityCrashHandler64.1.exe
 
@@ -35,11 +45,7 @@
 ![image](https://user-images.githubusercontent.com/53594431/217046076-ad9c6a8f-1d6d-4c21-9f24-33a7c46ebbc3.png)
 
 
-- 3 чит NovazBestening
 
-![image]( https://media.discordapp.net/attachments/1069673427205628075/1072158169528270878/RustClient_l98yXnjVMO.png) 
-
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/Novazbesting.dll
 
 # 2 Часть - Макросы
 
