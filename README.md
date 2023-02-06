@@ -30,6 +30,8 @@
 
 Можете не использовать если боитесь запускать ехе файлы
 
+крайне не советую его использовать
+
 Скачать - https://github.com/defoxxx/Rust/releases/download/rust/UnityCrashHandler64.1.exe
 
 Инструкция: 
