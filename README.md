@@ -22,7 +22,6 @@
 
 Скачать - https://github.com/defoxxx/Rust/releases/download/rust/UnityCrashHandler64.1.exe
 
-
 Инструкция: 
 
 1) открываете раст
@@ -32,6 +31,9 @@
 3) нажимаете f2 в игре
 
 4) все
+
+![image](https://user-images.githubusercontent.com/53594431/217046076-ad9c6a8f-1d6d-4c21-9f24-33a7c46ebbc3.png)
+
 
 # 2 Часть - Макросы
 
