@@ -9,7 +9,7 @@
 
 # 1 часть - Пиратка V2370
 
-- 2 чит NovazBestening
+- 1 чит NovazBestening
 
 ![image]( https://media.discordapp.net/attachments/1069673427205628075/1072158169528270878/RustClient_l98yXnjVMO.png) 
 
