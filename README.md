@@ -15,7 +15,7 @@
 
 Скачать - https://github.com/defoxxx/Rust/releases/download/rust/Novazbesting.dll
 
--2 чит NovazBestening
+- 2 чит catchair
 
 ![image](https://user-images.githubusercontent.com/53594431/216804525-0c24db1d-89bd-4793-8d4f-30e52c12983f.png)
 
