@@ -35,6 +35,12 @@
 ![image](https://user-images.githubusercontent.com/53594431/217046076-ad9c6a8f-1d6d-4c21-9f24-33a7c46ebbc3.png)
 
 
+- 3 чит NovazBestening
+
+![image]( https://media.discordapp.net/attachments/1069673427205628075/1072158169528270878/RustClient_l98yXnjVMO.png) 
+
+Скачать - https://github.com/defoxxx/Rust/releases/download/rust/Novazbesting.dll
+
 # 2 Часть - Макросы
 
 lolz macros
