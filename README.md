@@ -34,7 +34,7 @@
 
 у кого то после его использования полетела винда, поэтому юзайте на свой страх и риск
 
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/UnityCrashHandler64.1.exe
+Скачать - не работает
 
 Инструкция: 
 
