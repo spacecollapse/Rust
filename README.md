@@ -98,3 +98,13 @@ Hydrogenesis
 
 скачать - https://github.com/defoxxx/Rust/releases/download/rust/123123.dll
 
+# 200-217 dev macro
+
+![image](https://user-images.githubusercontent.com/53594431/217713475-0d3b6628-bdfb-44cc-af24-e8a1cd4aeb0a.png)
+
+
+Работает от 200 по 217 девблога
+
+НА ГВ ДЕТЕКТ!
+
+Скачать - https://github.com/defoxxx/Rust/releases/download/rust/200_-_217_macro.exe
