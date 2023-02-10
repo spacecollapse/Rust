@@ -31,29 +31,12 @@
 Скачать чит - https://github.com/defoxxx/Rust/releases/download/rust/CatChair_Free.dll
 
 
-• 4 чит кряк Mr.gopota
+• 4 чит superior
 
-![image](https://media.discordapp.net/attachments/986681173554106388/1071853016271028304/image-2.png) 
+![image](https://user-images.githubusercontent.com/53594431/218157973-5edd28db-2a42-4f76-9590-320d580c9966.png)
 
-Можете не использовать если боитесь запускать ехе файлы
 
-лучше НЕ используйте его а юзайте другие читы
-
-у кого то после его использования полетела винда, поэтому юзайте на свой страх и риск
-
-Скачать - не работает
-
-Инструкция: 
-
-1) открываете раст
-
-2) открываете чит
-
-3) нажимаете f2 в игре
-
-4) все
-
-![image](https://user-images.githubusercontent.com/53594431/217046076-ad9c6a8f-1d6d-4c21-9f24-33a7c46ebbc3.png)
+Скачать - https://cdn.discordapp.com/attachments/1062700360080310362/1073656888991957122/superiority.dll
 
 
 
