@@ -9,11 +9,12 @@
 
 # 1 часть - Пиратка V2370
 
-- 1 чит NovazBestening
+• 1 чит superior
 
-![image]( https://media.discordapp.net/attachments/1069673427205628075/1072158169528270878/RustClient_l98yXnjVMO.png) 
+![image](https://user-images.githubusercontent.com/53594431/218157973-5edd28db-2a42-4f76-9590-320d580c9966.png)
 
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/Novazbesting.dll
+
+Скачать - https://cdn.discordapp.com/attachments/1062700360080310362/1073656888991957122/superiority.dll
 
 
 - 2 чит
@@ -31,12 +32,11 @@
 Скачать чит - https://github.com/defoxxx/Rust/releases/download/rust/CatChair_Free.dll
 
 
-• 4 чит superior
+- 4 чит NovazBestening
 
-![image](https://user-images.githubusercontent.com/53594431/218157973-5edd28db-2a42-4f76-9590-320d580c9966.png)
+![image]( https://media.discordapp.net/attachments/1069673427205628075/1072158169528270878/RustClient_l98yXnjVMO.png) 
 
-
-Скачать - https://cdn.discordapp.com/attachments/1062700360080310362/1073656888991957122/superiority.dll
+Скачать - https://github.com/defoxxx/Rust/releases/download/rust/Novazbesting.dll
 
 
 
