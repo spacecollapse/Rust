@@ -32,13 +32,9 @@
 Скачать - https://github.com/defoxxx/Rust/releases/download/rust/Novazbesting.dll
 
 
-- 2 чит
-
-![image](https://media.discordapp.net/attachments/1072865045312188488/1072865855790121030/image-6.png) 
-
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/invis.1k.dll
-
 - 3 чит catchair
+
+(он хуйня) 
 
 ![image](https://user-images.githubusercontent.com/53594431/216804525-0c24db1d-89bd-4793-8d4f-30e52c12983f.png)
 
@@ -47,6 +43,8 @@
 Скачать чит - https://github.com/defoxxx/Rust/releases/download/rust/CatChair_Free.dll
 
 • 4 чит superior
+
+(он хуйня) 
 
 ![image](https://user-images.githubusercontent.com/53594431/218157973-5edd28db-2a42-4f76-9590-320d580c9966.png)
 
