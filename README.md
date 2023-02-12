@@ -13,7 +13,8 @@
 
 ![image](https://user-images.githubusercontent.com/53594431/218296307-a8f6ab36-7b23-4045-b998-b6a16b902678.png)
 
-![image](https://user-images.githubusercontent.com/53594431/218296384-2d8260c4-4aa0-4156-8048-c3c1ad7a3d82.png)
+![image](https://user-images.githubusercontent.com/53594431/218296404-8cbb54bb-64cc-413e-baf6-e24973f09dc0.png)
+
 
 
 Скачать - https://github.com/defoxxx/Rust/releases/download/rust/money_rain.dll
