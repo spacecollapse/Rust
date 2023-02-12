@@ -9,6 +9,20 @@
 
 # 1 часть - Пиратка V2370
 
+1 Чит KAk razz Кряк его приваточки которую он продаетза 200руб
+
+![image](https://user-images.githubusercontent.com/53594431/218296307-a8f6ab36-7b23-4045-b998-b6a16b902678.png)
+
+
+
+Скачать - https://github.com/defoxxx/Rust/releases/download/rust/money_rain.dll
+
+Кфг - https://github.com/defoxxx/Rust/releases/download/rust/Default.json
+
+Кфг кидать в - C:\Users\Admin\AppData\Roaming\invis.1k\RUST
+
+
+
 - 1 чит NovazBestening
 
 ![image]( https://media.discordapp.net/attachments/1069673427205628075/1072158169528270878/RustClient_l98yXnjVMO.png) 
