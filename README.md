@@ -9,7 +9,7 @@
 
 # 1 часть - Пиратка V2377
 
- - все читы на обновлении
+Единственный рабочий чит - https://github.com/defoxxx/Rust/releases/download/rust/invisfree.dll
 
 # 2 Часть - Макросы
 
