@@ -7,51 +7,9 @@
 
 
 
-# 1 часть - Пиратка V2370
+# 1 часть - Пиратка V2377
 
- - кряк чита KakRazz который он продает за 200руб
-
-![image](https://user-images.githubusercontent.com/53594431/218296307-a8f6ab36-7b23-4045-b998-b6a16b902678.png)
-
-![image](https://user-images.githubusercontent.com/53594431/218296404-8cbb54bb-64cc-413e-baf6-e24973f09dc0.png)
-
-
-
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/money_rain.dll
-
-Кфг - https://github.com/defoxxx/Rust/releases/download/rust/Default.json
-
-Кфг кидать в - C:\Users\Admin\AppData\Roaming\invis.1k\RUST
-
-
-
-- 1 чит NovazBestening
-
-![image]( https://media.discordapp.net/attachments/1069673427205628075/1072158169528270878/RustClient_l98yXnjVMO.png) 
-
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/Novazbesting.dll
-
-
-- 3 чит catchair
-
-(он хуйня) 
-
-![image](https://user-images.githubusercontent.com/53594431/216804525-0c24db1d-89bd-4793-8d4f-30e52c12983f.png)
-
-
-
-Скачать чит - https://github.com/defoxxx/Rust/releases/download/rust/CatChair_Free.dll
-
-• 4 чит superior
-
-(он хуйня) 
-
-![image](https://user-images.githubusercontent.com/53594431/218157973-5edd28db-2a42-4f76-9590-320d580c9966.png)
-
-
-Скачать - https://cdn.discordapp.com/attachments/1062700360080310362/1073656888991957122/superiority.dll
-
-
+ - все читы на обновлении
 
 # 2 Часть - Макросы
 
