@@ -12,7 +12,7 @@
 Единственный рабочий чит - https://github.com/defoxxx/Rust/releases/download/rust/invisfree.dll
 
 
-superior - https://github.com/defoxxx/Rust/releases/download/rust/superiority_win.1.dll
+superior (не работает на 2377) - https://github.com/defoxxx/Rust/releases/download/rust/superiority_win.1.dll
 
 
 # 2 Часть - Макросы
