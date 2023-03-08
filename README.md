@@ -9,10 +9,10 @@
 
 # 1 часть - Пиратка V2377
 
-Единственный рабочий чит - https://github.com/defoxxx/Rust/releases/download/rust/invisfree.dll
+Invis не кряк - https://github.com/defoxxx/Rust/releases/download/rust/invisfree.dll
 
 
-superior (не работает на 2377) - https://github.com/defoxxx/Rust/releases/download/rust/superiority_win.1.dll
+INvis crack - https://github.com/defoxxx/Rust/releases/download/rust/INVIS_PRIVATE.dll
 
 
 # 2 Часть - Макросы
