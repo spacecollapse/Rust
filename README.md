@@ -9,11 +9,7 @@
 
 # 1 часть - Пиратка V2377
 
-Invis не кряк - https://github.com/defoxxx/Rust/releases/download/rust/invisfree.dll
-
-
-INvis crack - https://github.com/defoxxx/Rust/releases/download/rust/INVIS_PRIVATE.dll
-
+Единственный рабочий чит - https://github.com/defoxxx/Rust/releases/download/rust/main.dll
 
 # 2 Часть - Макросы
 
