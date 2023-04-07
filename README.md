@@ -11,6 +11,10 @@
 
 Единственный рабочий чит - https://github.com/defoxxx/Rust/releases/download/rust/main.dll
 
+
+инвис фри - https://github.com/defoxxx/Rust/releases/download/rust/invi.s.dll
+
+
 # 2 Часть - Макросы
 
 lolz macros
