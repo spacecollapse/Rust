@@ -7,7 +7,7 @@
 
 
 
-# 1 часть - Пиратка V2377
+# 1 часть - Пиратка V2380
 
 Единственный рабочий чит - https://github.com/defoxxx/Rust/releases/download/rust/main.dll
 
