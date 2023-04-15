@@ -9,8 +9,9 @@
 
 # 1 часть - Пиратка V2380
 
-Единственный рабочий чит - https://github.com/defoxxx/Rust/releases/download/rust/main.dll
+plus - https://github.com/defoxxx/Rust/releases/download/rust/plus.dll
 
+superiority - https://github.com/defoxxx/Rust/releases/download/rust/default.dll
 
 инвис фри - https://github.com/defoxxx/Rust/releases/download/rust/invi.s.dll
 
