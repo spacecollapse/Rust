@@ -9,7 +9,7 @@
 
 # 1 часть - Пиратка V2380
 
-plus - https://github.com/defoxxx/Rust/releases/download/rust/plus.dll
+plus - https://github.com/F1nyx/Rust-2380/releases/download/%23%23Rust2380/plus.dll
 
 superiority - https://github.com/defoxxx/Rust/releases/download/rust/default.dll
 
