@@ -10,13 +10,6 @@
 # 1 часть - Пиратка V2380
 
 
-![image](https://user-images.githubusercontent.com/53594431/233378139-35cd256d-cb8c-4fc2-a3d4-1466cc7c7226.png)
-
-
-https://github.com/defoxxx/Rust/releases/download/rust/runaway.dll
-
-
-
 plus - https://github.com/F1nyx/Rust-2380/releases/download/%23%23Rust2380/plus.dll
 
 superiority - https://github.com/defoxxx/Rust/releases/download/rust/default.dll
