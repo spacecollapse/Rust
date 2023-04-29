@@ -12,9 +12,9 @@
 
 plus - https://github.com/F1nyx/Rust-2380/releases/download/%23%23Rust2380/plus.dll
 
-superiority - https://github.com/defoxxx/Rust/releases/download/rust/default.dll
+superiority - https://github.com/spacecollapse/Rust/releases/download/rust/default.dll
 
-инвис фри - https://github.com/defoxxx/Rust/releases/download/rust/invi.s.dll
+инвис фри - https://github.com/spacecollapse/Rust/releases/download/rust/invi.s.dll
 
 
 # 2 Часть - Макросы
@@ -25,7 +25,7 @@ lolz macros
 ![image](https://user-images.githubusercontent.com/53594431/198866425-51e7510c-8dba-4ea6-9f5f-b81f99863b05.png)
 
 
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/FreeScript.1.exe
+Скачать - https://github.com/spacecollapse/Rust/releases/download/rust/FreeScript.1.exe
 
 # 3 часть - DevBlog
 
@@ -37,7 +37,7 @@ lolz macros
 
 ![image](https://user-images.githubusercontent.com/53594431/198866468-f9fea422-5284-4198-9be1-39be3e7cd507.png)
 
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/Rust.133dev.zip
+Скачать - https://github.com/spacecollapse/Rust/releases/download/rust/Rust.133dev.zip
 
 # 247 devblog
 
@@ -55,7 +55,7 @@ Hydrogenesis
 
 ![image](https://cdn.discordapp.com/attachments/1062700360080310362/1067770717267054602/image.png)
 
-скачать - https://github.com/defoxxx/Rust/releases/download/rust/123123.dll
+скачать - https://github.com/spacecollapse/Rust/releases/download/rust/123123.dll
 
 # 200-217 dev macro
 
@@ -66,4 +66,4 @@ Hydrogenesis
 
 НА ГВ ДЕТЕКТ!
 
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/200_-_217_macro.exe
+Скачать - https://github.com/spacecollapse/Rust/releases/download/rust/200_-_217_macro.exe
