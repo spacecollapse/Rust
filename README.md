@@ -7,12 +7,10 @@
 
 
 
-# 1 часть - Пиратка V2380
+# 1 часть - Пиратка V2388
 
 
-plus - https://github.com/F1nyx/Rust-2380/releases/download/%23%23Rust2380/plus.dll
-
-superiority - https://github.com/spacecollapse/Rust/releases/download/rust/default.dll
+superiority - https://github.com/spacecollapse/Rust/releases/download/rust/superiority_RUST.dll
 
 инвис фри - https://github.com/spacecollapse/Rust/releases/download/rust/invi.s.dll
 
