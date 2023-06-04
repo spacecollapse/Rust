@@ -12,7 +12,6 @@
 
 superiority - https://github.com/spacecollapse/Rust/releases/download/rust/superiority_RUST.dll
 
-инвис фри - https://github.com/spacecollapse/Rust/releases/download/rust/inv5is.dll
 
 
 # 2 Часть - Макросы
