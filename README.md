@@ -13,6 +13,11 @@
 superiority - https://github.com/spacecollapse/Rust/releases/download/rust/superiority_RUST.dll
 
 
+HItScan - https://github.com/spacecollapse/Rust/releases/download/rust/hitscan.zip
+
+![image](https://github.com/spacecollapse/Rust/assets/53594431/8f195489-de08-41da-9719-36f73cd11256)
+
+
 
 # 2 Часть - Макросы
 
