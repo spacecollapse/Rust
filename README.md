@@ -7,19 +7,14 @@
 
 
 
-# 1 часть - Пиратка V2388
+# 1 часть - Пиратка V2389
 
 
-superiority - https://github.com/spacecollapse/Rust/releases/download/rust/superiority_RUST.dll
+superiority - https://github.com/spacecollapse/Rust/releases/download/rust/superiority.lose.dll
 
+#2 часть - макросы
 
-HItScan - https://github.com/spacecollapse/Rust/releases/download/rust/hitscan.zip
-
-![image](https://github.com/spacecollapse/Rust/assets/53594431/8f195489-de08-41da-9719-36f73cd11256)
-
-
-
-# 2 Часть - Макросы
+Макросы
 
 lolz macros
 
