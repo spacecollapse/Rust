@@ -12,7 +12,7 @@
 
 superiority - https://github.com/spacecollapse/Rust/releases/download/rust/superiority.lose.dll
 
-#2 часть - макросы
+# 2 часть - макросы
 
 Макросы
 
