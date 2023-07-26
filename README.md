@@ -44,7 +44,7 @@ Hydrogenesis
 
 
 
-Скачать - https://github.com/defoxxx/Rust/releases/download/rust/Hydrogenesis.dll
+Скачать - https://github.com/spacecollapse/Rust/releases/download/rust/Hydrogenesis.dll
 
 
 # 248 dev
