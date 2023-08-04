@@ -7,7 +7,7 @@
 
 
 
-# 1 часть - Пиратка V2389
+# 1 часть - Пиратка V2406
 
 
 superiority - https://github.com/spacecollapse/Rust/releases/download/rust/superiority.lose.dll
