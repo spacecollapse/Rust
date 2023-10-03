@@ -7,10 +7,9 @@
 
 
 
-# 1 часть - Пиратка V2406
+# 1 часть - Пиратка VXXXX
 
-
-superiority - https://github.com/spacecollapse/Rust/releases/download/rust/superiority.lose.dll
+Читов здесь на новые обновления временно не будет
 
 # 2 часть - макросы
 
