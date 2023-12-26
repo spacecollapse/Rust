@@ -7,9 +7,9 @@
 
 
 
-# 1 часть - Пиратка VXXXX
+# 1 часть - Пиратка
 
-Читов здесь на новые обновления временно не будет
+Simplicity - https://github.com/spacecollapse/Rust/releases/download/rust/build.zipq 
 
 # 2 часть - макросы
 
