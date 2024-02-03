@@ -9,7 +9,7 @@
 
 # 1 часть - Пиратка
 
-Simplicity - https://github.com/spacecollapse/Rust/releases/download/rust/build.zip
+пока нету
 
 # 2 часть - макросы
 
