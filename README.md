@@ -9,7 +9,13 @@
 
 # 1 часть - Пиратка
 
-пока нету
+
+
+![image](https://github.com/spacecollapse/Rust/assets/53594431/cb971e6a-0ed5-4389-9300-21b37128ade8)
+
+
+
+Superiority - https://github.com/spacecollapse/Rust/releases/download/rust/superiorit1y.dll
 
 # 2 часть - макросы
 
