@@ -17,6 +17,13 @@
 
 Superiority - https://github.com/spacecollapse/Rust/releases/download/rust/superiorit1y.dll
 
+кфг - https://github.com/spacecollapse/Rust/releases/download/rust/123.json
+
+Кидать по пути 
+
+![image](https://github.com/spacecollapse/Rust/assets/53594431/e40631bb-579b-4f93-a6fd-ca8ceabf4faa)
+
+
 # 2 часть - макросы
 
 Макросы
