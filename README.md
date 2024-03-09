@@ -15,7 +15,7 @@
 
 
 
-Superiority - https://github.com/spacecollapse/Rust/releases/download/rust/superiorit1y.dll
+Superiority - https://github.com/spacecollapse/Rust/releases/download/rust/superiorit.dll
 
 кфг - https://github.com/spacecollapse/Rust/releases/download/rust/123.json
 
