@@ -15,7 +15,13 @@
 
 
 
-Superiority - не обновлен временно ждите
+Superiority - https://github.com/spacecollapse/Rust/releases/download/rust/superiorit.dll
+
+
+ОН СЕЙЧАС НЕ ОБНОВЛЁН ПОЭТОМУ ПРОИСХОДЯТ СТРАННОСТИ. 
+
+У КОГО ТО ОН РАБОТАЕТ А У КОГО ТО НЕТ - ТЕСТИТЕ
+
 
 кфг - https://github.com/spacecollapse/Rust/releases/download/rust/123.json
 
