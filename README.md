@@ -51,7 +51,7 @@ lolz macros
 
 # 236 devblog 
 
-![image](https://media.discordapp.net/attachments/1118409539281236009/1218822699791548496/Screenshot_2024-03-17-12-24-02-601_com.android.chrome-edit.jpg?ex=66091018&is=65f69b18&hm=da1ca5448b8add9b6d7b0a275b57cf0d958b417ff172f0ac7872dd23d11fe709&)
+![image](https://github.com/spacecollapse/Rust/assets/53594431/880a4bcf-ace8-4866-ad77-33c3fc5a0d13)
 
 
 Скачать - https://github.com/spacecollapse/Rust/releases/download/rust/catcheat.crack.by.frashkey.dll
