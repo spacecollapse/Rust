@@ -15,7 +15,7 @@
 
 
 
-Superiority - https://github.com/spacecollapse/Rust/releases/download/rust/superiority_RUST_2524.dll
+Superiority - https://github.com/spacecollapse/Rust/releases/download/rust/superiotyfix.dll
 
 
 
