@@ -15,7 +15,7 @@
 
 
 
-Superiority - https://github.com/spacecollapse/Rust/releases/download/rust/super1iotyfix.dll
+Superiority - https://github.com/spacecollapse/Rust/releases/download/rust/superiority_RUST1.dll
 
 
 
