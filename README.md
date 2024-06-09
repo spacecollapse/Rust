@@ -18,13 +18,13 @@
 Superiority - https://github.com/spacecollapse/Rust/releases/download/rust/0906superiority_RUST.dll
 
 
-
 кфг - https://github.com/spacecollapse/Rust/releases/download/rust/123.json
 
 Кидать по пути 
 
 ![image](https://github.com/spacecollapse/Rust/assets/53594431/e40631bb-579b-4f93-a6fd-ca8ceabf4faa)
 
+Чтобы запустить чит посмотри первые 20 секунд видео - https://youtu.be/PRYvtVjT4To?si=uWQ2QvulI_NOkbpx
 
 # 2 часть - макросы
 
