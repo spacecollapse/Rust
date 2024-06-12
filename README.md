@@ -21,6 +21,7 @@ Superiority - https://github.com/spacecollapse/Rust/releases/download/rust/0906s
 
 Чтобы запустить чит посмотри первые 20 секунд видео - https://youtu.be/PRYvtVjT4To?si=uWQ2QvulI_NOkbpx
 
+раст пиратку можно скачать тут - https://github.com/spacecollapse/Rust/releases/download/rust/Rust_2548_6.06.2024.torrent
 
 кфг - https://github.com/spacecollapse/Rust/releases/download/rust/123.json
 
