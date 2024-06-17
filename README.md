@@ -15,9 +15,9 @@
 
 
 
-Superiority - https://github.com/spacecollapse/Rust/releases/download/rust/0906superiority_RUST.dll
+Superiority (ЕСЛИ У ВАС ВЫХОДИТ ОШИБКА ПРИ ИНЖЕКТЕ МОЖЕТ БЫТЬ СТОИТ ПРОЧИТАТЬ ЧТО НАПИСАНО НИЖЕ?)- https://github.com/spacecollapse/Rust/releases/download/rust/0906superiority_RUST.dll
 
-ПРОЧИТАЙ ЧТО НАПИСАНО НИЖЕ!!!! 
+
 
 Чтобы запустить чит посмотри первые 20 секунд видео - https://youtu.be/PRYvtVjT4To?si=uWQ2QvulI_NOkbpx
 
