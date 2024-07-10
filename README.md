@@ -16,7 +16,7 @@
 
 
 
-Superiority - не обновлен ждите новость в канале оповещения
+Superiority - https://github.com/spacecollapse/Rust/releases/download/rust/superiul.dll
 
 
 
