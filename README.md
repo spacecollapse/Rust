@@ -16,7 +16,7 @@
 
 
 
-Superiority V2552 - https://github.com/spacecollapse/Rust/releases/download/rust/superiul.dll
+Superiority V2552 (аим и многие не очень важные функции не работают ВРЕМЕННО!!, все остальное работает (ждите пока пофиксят) - https://github.com/spacecollapse/Rust/releases/download/rust/superiul.dll
 
 
 
