@@ -16,13 +16,13 @@
 
 
 
-Superiority - https://github.com/spacecollapse/Rust/releases/download/rust/superiul.dll
+Superiority V2552 - https://github.com/spacecollapse/Rust/releases/download/rust/superiul.dll
 
 
 
 Если при инжекте ошибка либо чтобы запустить чит посмотри первые 20 секунд видео - https://youtu.be/PRYvtVjT4To?si=uWQ2QvulI_NOkbpx
 
-раст пиратку можно скачать тут - https://github.com/spacecollapse/Rust/releases/download/rust/Rust_2548_6.06.2024.torrent
+раст пиратку можно скачать тут - https://forum.alkad.org/resources/rust.7/
 
 кфг - https://github.com/spacecollapse/Rust/releases/download/rust/123.json
 
