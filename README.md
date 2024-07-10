@@ -18,7 +18,7 @@
 
 Superiority V2552 (аим и многие не очень важные функции не работают ВРЕМЕННО!!, все остальное работает (ждите пока пофиксят) - https://github.com/spacecollapse/Rust/releases/download/rust/superiul.dll
 
-Батник для открытия раста(запускать хоть откуда, при запуске выберите папку с игрой, после запустите батник еще раз)(если ошибки какието, удалите файл rust.txt в документа) - https://github.com/spacecollapse/Rust/releases/download/rust/openrust.bat
+Открывать также, Запускаем Rust.exe, ждём 5секунд, запускаем RustClient.exe, ошибка another instance is running говорит об успехе
 
 Если при инжекте ошибка либо чтобы запустить чит посмотри первые 20 секунд видео - https://youtu.be/PRYvtVjT4To?si=uWQ2QvulI_NOkbpx
 
