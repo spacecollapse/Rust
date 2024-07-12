@@ -18,9 +18,7 @@
 
 Superiority V2552 (аим и многие не очень важные функции не работают ВРЕМЕННО!!, все остальное работает (ждите пока пофиксят) - https://github.com/spacecollapse/Rust/releases/download/rust/superiul.dll
 
-Открывать также, Запускаем Rust.exe, ждём 5секунд, запускаем RustClient.exe, ошибка another instance is running говорит об успехе
-
-Если при инжекте ошибка либо чтобы запустить чит посмотри первые 20 секунд видео - https://youtu.be/PRYvtVjT4To?si=uWQ2QvulI_NOkbpx
+Обход античита, ошибки при инжекте - https://www.youtube.com/watch?v=yNhFCAl7SHU
 
 раст пиратку можно скачать тут - https://forum.alkad.org/resources/rust.7/
 
