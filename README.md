@@ -16,7 +16,7 @@
 
 
 
-Superiority V2552 (аим и многие не очень важные функции не работают ВРЕМЕННО!!, все остальное работает (ждите пока пофиксят) - https://github.com/spacecollapse/Rust/releases/download/rust/superiul.dll
+Superiority V2553 - 15 числа вышел патч 2553, ожидайте день-два для обновления чита
 
 Обход античита, ошибки при инжекте - https://www.youtube.com/watch?v=yNhFCAl7SHU
 
