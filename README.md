@@ -16,9 +16,7 @@
 
 
 
-Superiority V2553 - https://github.com/spacecollapse/Rust/releases/download/rust/superiul.dll 
-
-(некоторые функции не работают) 
+Superiority V2553 - https://github.com/spacecollapse/Rust/releases/download/rust/superiul.dll (работает пока только вх, ждите апдейт) 
 
 (15 числа вышел патч 2553, ожидайте день-два для обновления чита) 
 
