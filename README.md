@@ -16,7 +16,11 @@
 
 
 
-Superiority V2553 - 15 числа вышел патч 2553, ожидайте день-два для обновления чита
+Superiority V2553 - https://github.com/spacecollapse/Rust/releases/download/rust/superiul.dll 
+
+(некоторые функции не работают) 
+
+(15 числа вышел патч 2553, ожидайте день-два для обновления чита) 
 
 Обход античита, ошибки при инжекте - https://www.youtube.com/watch?v=yNhFCAl7SHU
 
