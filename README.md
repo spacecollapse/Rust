@@ -16,7 +16,7 @@
 
 
 
-Superiority V2552 - чит не обновлен под 2553, ждите, когда будет обновлен я напишу в оповещениях на сервере. не надо писать мне в лс, время обновления зависит не от меня
+Superiority V2552 - https://github.com/spacecollapse/Rust/releases/download/rust/super2553.dll
 
 Обход античита, ошибки при инжекте - https://www.youtube.com/watch?v=yNhFCAl7SHU
 
