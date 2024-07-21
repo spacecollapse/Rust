@@ -16,9 +16,8 @@
 
 
 
-Superiority V2552 - https://github.com/spacecollapse/Rust/releases/download/rust/super2553.dll
+Superiority V2553 - https://github.com/spacecollapse/Rust/releases/download/rust/super2553.dll
 
-(аим не работает)
 
 Обход античита, ошибки при инжекте - https://www.youtube.com/watch?v=yNhFCAl7SHU
 
