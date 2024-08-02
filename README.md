@@ -11,21 +11,14 @@
 
 
 
-![image](https://github.com/spacecollapse/Rust/assets/53594431/df4ac9ae-7417-4280-8351-95e9ef758e81)
-
-
-
 
 Superiority V2555 - НЕ ОБНОВЛЕН!!!!!
 
 ![image](https://github.com/user-attachments/assets/97cc3b17-7b22-47b9-9b48-e6098ec0059f)
 
 
-ЧТО ДЕЛАТЬ ЕСЛИ ОШИБКИ ПРИ ИНЖЕКТЕ - https://www.youtube.com/watch?v=yNhFCAl7SHU
 
-Обход античита - https://www.youtube.com/watch?v=yNhFCAl7SHU
-
-раст пиратку можно скачать тут - https://forum.alkad.org/resources/rust.7/
+раст пиратку можно скачать тут - https://forum.alkad.org/resources/rust.7
 
 кфг - https://github.com/spacecollapse/Rust/releases/download/rust/123.json
 
