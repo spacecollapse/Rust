@@ -10,9 +10,9 @@
 # 1 часть - Пиратка
 
 
+Обход еака завтра
 
-
-Superiority V2555 - НЕ ОБНОВЛЕН!!!!!
+Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/2555superiority.dll
 
 ![image](https://github.com/user-attachments/assets/97cc3b17-7b22-47b9-9b48-e6098ec0059f)
 
