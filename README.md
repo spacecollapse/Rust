@@ -16,7 +16,10 @@
 
 
 
-Superiority V2553 - https://github.com/spacecollapse/Rust/releases/download/rust/super2553.dll
+Superiority V2555 - НЕ ОБНОВЛЕН!!!!!
+
+![image](https://github.com/user-attachments/assets/97cc3b17-7b22-47b9-9b48-e6098ec0059f)
+
 
 ЧТО ДЕЛАТЬ ЕСЛИ ОШИБКИ ПРИ ИНЖЕКТЕ - https://www.youtube.com/watch?v=yNhFCAl7SHU
 
