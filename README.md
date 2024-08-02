@@ -10,7 +10,7 @@
 # 1 часть - Пиратка
 
 
-Обход еака завтра
+Обход еака завтра, возможно он будет платным, а может и нет
 
 Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/2555superiority.dll
 
