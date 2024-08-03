@@ -10,11 +10,15 @@
 # 1 часть - Пиратка
 
 
-Обход еака завтра, возможно он будет платным, а может и нет
+![image](https://github.com/user-attachments/assets/8ba1f20d-2278-4b5d-8c2d-af7c532b9b13)
 
-Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/2555superiority.dll
+Обход еака - https://github.com/spacecollapse/Rust/releases/download/rust/alkadbypass.exe
 
-![image](https://github.com/user-attachments/assets/97cc3b17-7b22-47b9-9b48-e6098ec0059f)
+После скачивания нажмите включить обход, также можете инжектить свои длл
+
+Отдельно длл(чит не работает на данный момент) - Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/2555superiority.dll
+
+
 
 
 
