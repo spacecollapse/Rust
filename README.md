@@ -20,6 +20,7 @@
 
 **Раст должен быть на диске C, иначе могут возникать ошибки**
 
+Также, если возникает ошибка которая требует перезапустить Rust с EAC, запустите вручную Rust.exe потом RustClient.exe, и в момент загрузки EasyAntiCheat(синяя полоса), заинжектите чит в RustClient.exe
 
 Скачать обход - https://github.com/spacecollapse/Rust/releases/download/rust/alkadbypass.exe
 
