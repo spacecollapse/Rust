@@ -19,7 +19,7 @@
 Если неправильно указали папку с растом нажмите на сбросить настройки и перезайдите в программу
 
 
-Обход еака - https://github.com/spacecollapse/Rust/releases/download/rust/alkadbypass.exe
+Скачать обход - https://github.com/spacecollapse/Rust/releases/download/rust/alkadbypass.exe
 
 Когда обновят superiority, не нужно будет ничего перекачивать, просто нажать кнопку инжекта
 
