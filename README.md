@@ -13,7 +13,10 @@
 ![image](https://github.com/user-attachments/assets/42ebd9bf-85e5-4a28-ba6a-57bf8d42c32c)
 
 
+
 Обход еака - https://github.com/spacecollapse/Rust/releases/download/rust/alkadbypass.exe
+
+Когда обновят superiority, не нужно будет ничего перекачивать, просто нажать кнопку инжекта
 
 После скачивания нажмите включить обход, также можете инжектить свои длл, об ошибках и багах пишите мне
 
