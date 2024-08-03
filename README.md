@@ -12,7 +12,7 @@
 
 ![image](https://github.com/user-attachments/assets/42ebd9bf-85e5-4a28-ba6a-57bf8d42c32c)
 
-
+Лучше запускайте **от имени администратора**
 
 Обход еака - https://github.com/spacecollapse/Rust/releases/download/rust/alkadbypass.exe
 
