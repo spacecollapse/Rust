@@ -10,7 +10,8 @@
 # 1 часть - Пиратка
 
 
-![image](https://github.com/user-attachments/assets/8ba1f20d-2278-4b5d-8c2d-af7c532b9b13)
+![image](https://github.com/user-attachments/assets/42ebd9bf-85e5-4a28-ba6a-57bf8d42c32c)
+
 
 Обход еака - https://github.com/spacecollapse/Rust/releases/download/rust/alkadbypass.exe
 
