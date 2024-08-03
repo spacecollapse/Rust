@@ -24,7 +24,7 @@
 Когда обновят superiority, не нужно будет ничего перекачивать, просто нажать кнопку инжекта
 
 
-Отдельно длл(вроде работает вх и некоторые функции, обновлен не полностью) - Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/2555superiority.dll
+(необязательно для работы скрипта) Отдельно длл (вроде работает вх и некоторые функции, обновлен не полностью) - Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/2555superiority.dll
 
 
 
