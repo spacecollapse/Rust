@@ -15,7 +15,7 @@
 
 Обход еака - https://github.com/spacecollapse/Rust/releases/download/rust/alkadbypass.exe
 
-После скачивания нажмите включить обход, также можете инжектить свои длл
+После скачивания нажмите включить обход, также можете инжектить свои длл, об ошибках и багах пишите мне
 
 Отдельно длл(чит не работает на данный момент) - Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/2555superiority.dll
 
