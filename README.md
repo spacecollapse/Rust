@@ -27,11 +27,9 @@
 
 Скачать обход - https://github.com/spacecollapse/Rust/releases/download/rust/alkadbypass.exe
 
-Когда обновят superiority, не нужно будет ничего перекачивать, просто нажать кнопку инжекта
 
 
 (необязательно для работы скрипта) Отдельно длл (вроде работает вх и некоторые функции, обновлен не полностью) - Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/2555superiority.dll
-
 
 
 раст пиратку можно скачать тут - https://forum.alkad.org/resources/rust.7
