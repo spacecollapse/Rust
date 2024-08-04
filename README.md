@@ -28,14 +28,11 @@
 
 Из за того что кодеру насрали в руки когда он делал обход, кнопка заинжектить superiority может не работать, завтра заменю ее на "выбор длл для инжекта" 
 
-Скачать обход - 
+Скачать обход - https://github.com/spacecollapse/Rust/releases/download/rust/eacbypass.exe
 
-Download bypass (english interface) - 
+Download bypass (english interface) - https://github.com/spacecollapse/Rust/releases/download/rust/eacbypassen.exe
 
-(необязательно для работы скрипта) Отдельно длл Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/2555superiority.dll
-
-
-
+Dll Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/2555superiority.dll
 
 
 FakeAdmin binds - bind p debugcamera - bind o noclip
