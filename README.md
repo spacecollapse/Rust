@@ -23,10 +23,7 @@
 ![image](https://github.com/user-attachments/assets/0cc17766-2821-440f-9582-b9ee36772519)
 
 Чтобы чит не крашил, уберите вот здесь галочку
-![image](https://github.com/user-attachments/assets/de5bf355-6c2d-44ae-a0af-c440739c7cc7)
-
-
-Из за того что кодеру насрали в руки когда он делал обход, кнопка заинжектить superiority может не работать, завтра заменю ее на "выбор длл для инжекта" 
+![image](https://github.com/user-attachments/assets/de5bf355-6c2d-44ae-a0af-c440739c7cc7) 
 
 Скачать обход - https://github.com/spacecollapse/Rust/releases/download/rust/eacbypass.exe
 
