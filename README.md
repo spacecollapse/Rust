@@ -29,6 +29,8 @@
 
 Скачать обход - https://github.com/spacecollapse/Rust/releases/download/rust/alkadbypass.exe
 
+Download bypass (english interface) - https://github.com/spacecollapse/Rust/releases/download/rust/alkadbypassen.exe
+
 (лоадер инжектит новую длл) 
 
 (необязательно для работы скрипта) Отдельно длл Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/2555superiority.dll
