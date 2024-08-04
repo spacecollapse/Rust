@@ -26,14 +26,19 @@
 
 ![image](https://github.com/user-attachments/assets/0cc17766-2821-440f-9582-b9ee36772519)
 
+Чтобы чит не крашил, уберите вот здесь галочку
+![image](https://github.com/user-attachments/assets/de5bf355-6c2d-44ae-a0af-c440739c7cc7)
+
 
 Скачать обход - https://github.com/spacecollapse/Rust/releases/download/rust/alkadbypass.exe
 
 Download bypass (english interface) - https://github.com/spacecollapse/Rust/releases/download/rust/alkadbypassen.exe
 
-(необязательно для работы скрипта) Отдельно длл Superiority V2555 (без аима) - https://github.com/spacecollapse/Rust/releases/download/rust/2555superiority.dll
+(необязательно для работы скрипта) Отдельно длл Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/2555superiority.dll
 
-версия с аимом (может крашить) - https://github.com/spacecollapse/Rust/releases/download/rust/superiority255old.dll
+
+
+
 
 FakeAdmin binds - bind p debugcamera - bind o noclip
 
