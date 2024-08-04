@@ -28,9 +28,9 @@
 
 Из за того что кодеру насрали в руки когда он делал обход, кнопка заинжектить superiority может не работать, завтра заменю ее на "выбор длл для инжекта" 
 
-Скачать обход - https://github.com/spacecollapse/Rust/releases/download/rust/alkadbypass.exe
+Скачать обход - 
 
-Download bypass (english interface) - https://github.com/spacecollapse/Rust/releases/download/rust/alkadbypassen.exe
+Download bypass (english interface) - 
 
 (необязательно для работы скрипта) Отдельно длл Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/2555superiority.dll
 
