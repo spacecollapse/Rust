@@ -31,8 +31,6 @@
 
 Download bypass (english interface) - https://github.com/spacecollapse/Rust/releases/download/rust/alkadbypassen.exe
 
-(лоадер инжектит новую длл) 
-
 (необязательно для работы скрипта) Отдельно длл Superiority V2555 (без аима) - https://github.com/spacecollapse/Rust/releases/download/rust/2555superiority.dll
 
 версия с аимом (может крашить) - https://github.com/spacecollapse/Rust/releases/download/rust/superiority255old.dll
