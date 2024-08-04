@@ -38,6 +38,7 @@ Dll Superiority V2555 (ласт апдейт 22:46МСК) - https://github.com/s
 
 FakeAdmin binds - bind p debugcamera - bind o noclip
 
+Исходник обхода (Source code bypass) - https://github.com/spacecollapse/alkad-eac-bypass
 
 раст пиратку можно скачать тут - https://forum.alkad.org/resources/rust.7
 
