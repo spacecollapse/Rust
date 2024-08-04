@@ -37,6 +37,8 @@ Download bypass (english interface) - https://github.com/spacecollapse/Rust/rele
 
 Если верхняя крашит использутей старую (есть только вх) - https://github.com/spacecollapse/Rust/releases/download/rust/superiority255old.dll
 
+FakeAdmin binds - bind p debugcamera - bind o noclip
+
 
 раст пиратку можно скачать тут - https://forum.alkad.org/resources/rust.7
 
