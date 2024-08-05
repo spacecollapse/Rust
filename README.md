@@ -29,7 +29,7 @@
 
 Download bypass (english interface) - https://github.com/spacecollapse/Rust/releases/download/rust/eacbypassen.exe
 
-Dll Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/2555superiority.dll
+Dll Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/necrashit.dll
 
 
 FakeAdmin binds - bind p debugcamera - bind o noclip
