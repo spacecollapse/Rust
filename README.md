@@ -27,6 +27,8 @@
 
 Download bypass (english interface) - https://github.com/spacecollapse/Rust/releases/download/rust/eacbypassen.exe
 
+Хэш оригинального файла с обходом (ру интерфейс) - 48526989c4dc457e5efb621c882893f4dfb770b7c6c2516ffa85d2abb43a1d66
+
 Dll Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/2555superiority.dll
 
 Если верхняя крашит - Dll Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/necrashit.dll
