@@ -50,15 +50,12 @@ FakeAdmin binds - bind p debugcamera - bind o noclip
 
 # 2 часть - макросы
 
-Макросы
+Rmacros 
 
-lolz macros
-
-
-![image](https://user-images.githubusercontent.com/53594431/198866425-51e7510c-8dba-4ea6-9f5f-b81f99863b05.png)
+![image](https://github.com/user-attachments/assets/67786344-7a03-49ea-b728-ea56182dc7fb)
 
 
-Скачать - https://github.com/spacecollapse/Rust/releases/download/rust/FreeScrirpt.exe
+Скачать - https://github.com/spacecollapse/loader/releases/download/loader/RMacros.exe
 
 # 3 часть - DevBlog
 
