@@ -55,7 +55,7 @@ Rmacros
 ![image](https://github.com/user-attachments/assets/67786344-7a03-49ea-b728-ea56182dc7fb)
 
 
-Скачать - https://github.com/spacecollapse/loader/releases/download/loader/RMacros.exe
+Скачать - https://github.com/spacecollapse/Rust/releases/download/rust/RMacros.exe
 
 # 3 часть - DevBlog
 
