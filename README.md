@@ -20,22 +20,14 @@
 Если написано "обход включён", но все равно проблемы, либо игра перезапускается с античитом - https://github.com/spacecollapse/abphel
 
 
-Чтобы чит не крашил, уберите вот здесь галочку
-![image](https://github.com/user-attachments/assets/de5bf355-6c2d-44ae-a0af-c440739c7cc7) 
+Скачать обход - когда чит обновят обновлю и обход
 
-Скачать обход - https://github.com/spacecollapse/Rust/releases/download/rust/eacbypass.exe
+Download bypass (english interface) - когда чит обновят обновлю и обход
 
-Download bypass (english interface) - https://github.com/spacecollapse/Rust/releases/download/rust/eacbypassen.exe
-
-Хэш оригинального файла с обходом (ру интерфейс) - 48526989c4dc457e5efb621c882893f4dfb770b7c6c2516ffa85d2abb43a1d66
-
-Dll Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/2555superiority.dll
-
-Если верхняя крашит - Dll Superiority V2555 - https://github.com/spacecollapse/Rust/releases/download/rust/necrashit.dll
+Dll Superiority V2556 - не обновлен
 
 
 FakeAdmin binds - bind p debugcamera - bind o noclip
-
 
 
 раст пиратку можно скачать тут - https://forum.alkad.org/resources/rust.7
