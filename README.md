@@ -9,7 +9,8 @@
 
 # 1 часть - Пиратка
 
-![image](https://github.com/user-attachments/assets/5d1bcdfe-4408-4584-9233-4e4130918107)
+![image](https://github.com/user-attachments/assets/b2bbd6c3-529a-4cb1-a3ea-be676ae20004)
+
 
 
 Скачать обход - когда чит обновят обновлю и обход
