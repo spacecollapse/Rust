@@ -11,17 +11,13 @@
 
 ![image](https://github.com/user-attachments/assets/b2bbd6c3-529a-4cb1-a3ea-be676ae20004)
 
+Скачать обход - https://github.com/spacecollapse/alkad-eac-bypass#alkad-eac-bypass
 
 
-Скачать обход - когда чит обновят обновлю и обход
-
-Download bypass (english interface) - когда чит обновят обновлю и обход
-
-Dll Superiority V2556 - не обновлен
+Dll Superiority V2556 - **не обновлен**
 
 
 FakeAdmin binds - bind p debugcamera - bind o noclip
-
 
 раст пиратку можно скачать тут - https://forum.alkad.org/resources/rust.7
 
