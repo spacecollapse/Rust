@@ -11,7 +11,7 @@
 
 ![image](https://github.com/user-attachments/assets/b2bbd6c3-529a-4cb1-a3ea-be676ae20004)
 
-Скачать обход - https://github.com/spacecollapse/alkad-eac-bypass#alkad-eac-bypass
+Скачать обход - https://github.com/spacecollapse/alkad-eac-bypass#alkad-eac-bypass-%D0%B3%D0%B0%D0%B9%D0%B4
 
 
 Dll Superiority V2556 - **не обновлен**
