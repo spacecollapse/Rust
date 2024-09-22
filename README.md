@@ -14,7 +14,7 @@
 Скачать обход - https://github.com/spacecollapse/alkad-eac-bypass#alkad-eac-bypass-%D0%B3%D0%B0%D0%B9%D0%B4
 
 
-Vlone 2556 - ждите пока я приду домой 1-2часа
+Vlone 2556 - https://github.com/spacecollapse/Rust/releases/download/rust/test.dll
 
 Если что то не так скачайте файлы Asset и переместите в C:/Windows - https://mega.nz/file/R3xywQZQ#r6MC7BSjqIBUaFGK5TuchXnGb4uyHfSkx0RZmcANgGk
 
