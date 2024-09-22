@@ -18,7 +18,7 @@ Vlone 2556 - https://github.com/spacecollapse/Rust/releases/download/rust/test.d
 
 Если что то не так скачайте и переместите в C:/Windows - https://mega.nz/file/R3xywQZQ#r6MC7BSjqIBUaFGK5TuchXnGb4uyHfSkx0RZmcANgGk
 
-и усиановите https://aka.ms/vs/17/release/vc_redist.x64.exe
+и установите https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 FakeAdmin binds - bind p debugcamera - bind o noclip
 
