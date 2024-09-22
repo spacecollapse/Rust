@@ -20,6 +20,9 @@ Vlone 2556 - https://github.com/spacecollapse/Rust/releases/download/rust/test.d
 
 и установите https://aka.ms/vs/17/release/vc_redist.x64.exe
 
+Не работают чамсы на игроков, руки - Пропишите в консоль 'graphics.viewmodelcamera false' и убедитесь что скачали Asset файл по пути "C:\Windows", так-же проблема может быть если вы заинжектили софт ДВА раза
+
+
 FakeAdmin binds - bind p debugcamera - bind o noclip
 
 раст пиратку можно скачать тут - https://forum.alkad.org/resources/rust.7
