@@ -14,13 +14,7 @@
 Скачать обход - https://github.com/spacecollapse/alkad-eac-bypass#alkad-eac-bypass-%D0%B3%D0%B0%D0%B9%D0%B4
 
 
-Vlone 2556 - https://github.com/spacecollapse/Rust/releases/download/rust/test.dll
-
-Если что то не так скачайте файлы Asset и переместите в C:/Windows - https://mega.nz/file/R3xywQZQ#r6MC7BSjqIBUaFGK5TuchXnGb4uyHfSkx0RZmcANgGk
-
-и установите https://aka.ms/vs/17/release/vc_redist.x64.exe
-
-Не работают чамсы на игроков, руки - Пропишите в консоль 'graphics.viewmodelcamera false' и убедитесь что скачали Asset файл по пути "C:\Windows", так-же проблема может быть если вы заинжектили софт ДВА раза
+Superiority 2556 - не обновлен
 
 
 FakeAdmin binds - bind p debugcamera - bind o noclip
