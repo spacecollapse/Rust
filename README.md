@@ -16,9 +16,9 @@
 
 Vlone 2556 - https://github.com/spacecollapse/Rust/releases/download/rust/test.dll
 
-Если что то нетак скачайте - https://mega.nz/file/R3xywQZQ#r6MC7BSjqIBUaFGK5TuchXnGb4uyHfSkx0RZmcANgGk
+Если что то не так скачайте и переместите в C:/Windows - https://mega.nz/file/R3xywQZQ#r6MC7BSjqIBUaFGK5TuchXnGb4uyHfSkx0RZmcANgGk
 
-и перемесиите в C:/Windows
+и усиановите https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 FakeAdmin binds - bind p debugcamera - bind o noclip
 
