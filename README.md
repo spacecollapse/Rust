@@ -16,7 +16,7 @@
 
 Vlone 2556 - https://github.com/spacecollapse/Rust/releases/download/rust/test.dll
 
-Если что то не так скачайте и переместите в C:/Windows - https://mega.nz/file/R3xywQZQ#r6MC7BSjqIBUaFGK5TuchXnGb4uyHfSkx0RZmcANgGk
+Если что то не так скачайте файлы Asset и переместите в C:/Windows - https://mega.nz/file/R3xywQZQ#r6MC7BSjqIBUaFGK5TuchXnGb4uyHfSkx0RZmcANgGk
 
 и установите https://aka.ms/vs/17/release/vc_redist.x64.exe
 
