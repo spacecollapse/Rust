@@ -14,11 +14,13 @@
 ![image](https://github.com/user-attachments/assets/b8121ba1-8002-4381-b117-6ba69823e4b1)
 
 
-Vlone 2556 - https://github.com/spacecollapse/Rust/releases/download/rust/test.dll 
+Vlone 2556 - https://yougame.biz/threads/330039
+
+Скачаивайте тут
 
 Можете скачать длл и инжектить вместе со включенным обходом,  если обход не работает пишите в дс
 
-Если вылазят красные ошибки, и другие проблемы читать тут, чит скачан отсюда же https://yougame.biz/threads/330039
+ 
 
 (обход еак, обход еак пиратский раст, чит на 2555, обход еака 2555, eac bypass, alkad eac bypass, eac free, superiority, обход алкад, alkad bypass, обход alkad made by usehvh) 
 
