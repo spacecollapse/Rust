@@ -9,19 +9,16 @@
 
 # 1 часть - Пиратка
 
-![image](https://github.com/user-attachments/assets/b2bbd6c3-529a-4cb1-a3ea-be676ae20004)
+Скачать обход EAC - https://github.com/spacecollapse/alkad-eac-bypass#alkad-eac-bypass-%D0%B3%D0%B0%D0%B9%D0%B4
 
-Скачать обход - https://github.com/spacecollapse/alkad-eac-bypass#alkad-eac-bypass-%D0%B3%D0%B0%D0%B9%D0%B4
-
-
-Superiority 2556 - не обновлен
+![image](https://github.com/user-attachments/assets/b8121ba1-8002-4381-b117-6ba69823e4b1)
 
 
-FakeAdmin binds - bind p debugcamera - bind o noclip
+Vlone 2556 - https://github.com/spacecollapse/Rust/releases/download/rust/test.dll 
 
-раст пиратку можно скачать тут - https://forum.alkad.org/resources/rust.7
+Можете скачать длл и инжектить вместе со включенным обходом,  если обход не работает пишите в дс
 
-кфг - https://github.com/spacecollapse/Rust/releases/download/rust/123.json
+Если вылазят красные ошибки, и другие проблемы читать тут, чит скачан отсюда же https://yougame.biz/threads/330039/#post-3154558
 
 Кидать по пути 
 
