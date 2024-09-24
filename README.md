@@ -20,10 +20,6 @@ Vlone 2556 - https://github.com/spacecollapse/Rust/releases/download/rust/test.d
 
 Если вылазят красные ошибки, и другие проблемы читать тут, чит скачан отсюда же https://yougame.biz/threads/330039/#post-3154558
 
-Кидать по пути 
-
-![image](https://github.com/spacecollapse/Rust/assets/53594431/e40631bb-579b-4f93-a6fd-ca8ceabf4faa)
-
 (обход еак, обход еак пиратский раст, чит на 2555, обход еака 2555, eac bypass, alkad eac bypass, eac free, superiority, обход алкад, alkad bypass, обход alkad made by usehvh) 
 
 # 2 часть - макросы
